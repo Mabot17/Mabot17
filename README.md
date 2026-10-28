@@ -18,7 +18,7 @@
 
 ### ☕ Sekilas Tentang Saya
 
-Programmer backend yang terbiasa membangun sistem nyata: **ERP, manajemen inventaris, kasir (POS), dan alur transaksi bisnis**.
+Programmer yang terbiasa membangun sistem nyata: **ERP, manajemen inventaris, kasir (POS), dan alur transaksi bisnis**.
 
 * **Modernisasi Sistem**: Berpengalaman memigrasikan sistem monolitik lawas ke arsitektur modern berbasis **Python (FastAPI)** dan **React**.
 * **Framework Creator**: Mengembangkan **FastFlow**, arsitektur backend modular dalam Python dan Go untuk standardisasi struktur REST API.
