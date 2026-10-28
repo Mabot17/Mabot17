@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="assets/inti-logo-node-network.png" width="95" alt="Node Network" />
+  <br />
+  <img src="assets/inti-logo-node-network.png" width="90" alt="Node Network" />
 
   # Abdul Rohman Masrifan (Mabot)
   
