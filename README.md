@@ -5,7 +5,6 @@
   # Abdul Rohman Masrifan (Mabot)
   
   <p><strong>Programmer yang hobi membaca, menulis realitas, dan hobi bertanya.</strong></p>
-  <p><em>"Membaca realitas dengan akal. Menyelaminya dengan rasa. Menuliskannya sebagai perjalanan kesadaran."</em></p>
 
   <p>
     <a href="mailto:masrifan26@gmail.com"><img src="https://img.shields.io/badge/Email-masrifan26%40gmail.com-D4AF37?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -82,7 +81,7 @@ Programmer yang terbiasa membangun sistem nyata: **ERP, manajemen inventaris, ka
 | **FastFlow Go** | Pasangan performa tinggi dari FastFlow dalam bahasa Go dengan konvensi modular yang sama untuk API berkecepatan tinggi. | `Golang`, `REST API` | [Mabot17/fastflow_golang](https://github.com/Mabot17/fastflow_golang) |
 | **Inventaris Stok** | Sistem manajemen stok barang, pencatatan transaksi masuk-keluar, dan pelaporan inventaris berkala. | `React`, `Vite`, `JavaScript` | [Mabot17/inventaris-react](https://github.com/Mabot17/inventaris-react) |
 | **AR Product Scanner** | Aplikasi mobile pemindaian produk berbasis Augmented Reality yang terhubung ke backend pengolah data. | `Flutter`, `Python`, `AR` | [Mabot17/ar_product_scanner](https://github.com/Mabot17/ar_product_scanner) |
-| **INTISATU** | Rumah publikasi risalah refleksi — ikhtiar membaca realitas dengan akal dan rasa tanpa pretensi. | `Python`, `Jinja2`, `HTML/CSS` | [intisatu.com](https://intisatu.com) |
+| **INTISATU** | Publikasi tulisan dan catatan perenungan seputar kehidupan dan realitas. | `Python`, `Jinja2`, `HTML/CSS` | [intisatu.com](https://intisatu.com) |
 
 ---
 
@@ -92,9 +91,3 @@ Programmer yang terbiasa membangun sistem nyata: **ERP, manajemen inventaris, ka
 * 🌐 **Catatan Tulisan**: [intisatu.com](https://intisatu.com)
 * 📸 **Instagram**: [@intisatu](https://instagram.com/intisatu)
 * 📍 **Domisili**: Surabaya, Jawa Timur, Indonesia
-
-<br />
-
-<div align="center">
-  <sub><i>"Membaca realitas dengan akal. Menyelaminya dengan rasa. Menuliskannya sebagai perjalanan kesadaran."</i></sub>
-</div>
